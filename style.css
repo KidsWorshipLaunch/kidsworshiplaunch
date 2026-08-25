@@ -2286,3 +2286,8 @@ body{
 .back-to-top span {
     transform: translateY(-4px);
 }
+@media (min-width: 1000px) {
+    html {
+        zoom: 1.1;
+    }
+}
